@@ -1,0 +1,11 @@
+C:\Users\kerth\source\repos\CodilityTestFindBinaryGap\CodilityTestFindBinaryGap\bin\Debug\netcoreapp3.0\CodilityTestFindBinaryGap.exe
+C:\Users\kerth\source\repos\CodilityTestFindBinaryGap\CodilityTestFindBinaryGap\bin\Debug\netcoreapp3.0\CodilityTestFindBinaryGap.deps.json
+C:\Users\kerth\source\repos\CodilityTestFindBinaryGap\CodilityTestFindBinaryGap\bin\Debug\netcoreapp3.0\CodilityTestFindBinaryGap.runtimeconfig.json
+C:\Users\kerth\source\repos\CodilityTestFindBinaryGap\CodilityTestFindBinaryGap\bin\Debug\netcoreapp3.0\CodilityTestFindBinaryGap.runtimeconfig.dev.json
+C:\Users\kerth\source\repos\CodilityTestFindBinaryGap\CodilityTestFindBinaryGap\bin\Debug\netcoreapp3.0\CodilityTestFindBinaryGap.dll
+C:\Users\kerth\source\repos\CodilityTestFindBinaryGap\CodilityTestFindBinaryGap\bin\Debug\netcoreapp3.0\CodilityTestFindBinaryGap.pdb
+C:\Users\kerth\source\repos\CodilityTestFindBinaryGap\CodilityTestFindBinaryGap\obj\Debug\netcoreapp3.0\CodilityTestFindBinaryGap.csprojAssemblyReference.cache
+C:\Users\kerth\source\repos\CodilityTestFindBinaryGap\CodilityTestFindBinaryGap\obj\Debug\netcoreapp3.0\CodilityTestFindBinaryGap.AssemblyInfoInputs.cache
+C:\Users\kerth\source\repos\CodilityTestFindBinaryGap\CodilityTestFindBinaryGap\obj\Debug\netcoreapp3.0\CodilityTestFindBinaryGap.AssemblyInfo.cs
+C:\Users\kerth\source\repos\CodilityTestFindBinaryGap\CodilityTestFindBinaryGap\obj\Debug\netcoreapp3.0\CodilityTestFindBinaryGap.dll
+C:\Users\kerth\source\repos\CodilityTestFindBinaryGap\CodilityTestFindBinaryGap\obj\Debug\netcoreapp3.0\CodilityTestFindBinaryGap.pdb
