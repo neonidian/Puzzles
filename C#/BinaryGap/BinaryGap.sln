@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.29326.143
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryGap", "BinaryGap\BinaryGap.csproj", "{C0FF8F7E-DB8B-48E1-BE1F-80A254D21BFD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindNumbersThatAreSquaresOfOtherNumbersFrom1to10000", "FindNumbersThatAreSquaresOfOtherNumbersFrom1to10000\FindNumbersThatAreSquaresOfOtherNumbersFrom1to10000.csproj", "{2C779E16-8E28-4C89-B500-085422A09026}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{C0FF8F7E-DB8B-48E1-BE1F-80A254D21BFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0FF8F7E-DB8B-48E1-BE1F-80A254D21BFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0FF8F7E-DB8B-48E1-BE1F-80A254D21BFD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2C779E16-8E28-4C89-B500-085422A09026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2C779E16-8E28-4C89-B500-085422A09026}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2C779E16-8E28-4C89-B500-085422A09026}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2C779E16-8E28-4C89-B500-085422A09026}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
